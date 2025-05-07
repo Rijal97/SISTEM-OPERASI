@@ -132,16 +132,16 @@
 ![image](https://github.com/user-attachments/assets/73f0159d-f631-412b-a71e-9c0da84c94ae)
 
 9.	menunjukkan sesi terminal di sistem operasi Ubuntu dengan berbagai perintah yang digunakan untuk membuat folder, menulis dan menjalankan skrip Python serta shell, serta mengelola izin eksekusi file
-   1.	Pengguna membuat direktori dan file Python, kemudian menjalankannya tanpa masalah.
-   2.	Pengguna mencoba menjalankan skrip shell tetapi awalnya gagal karena izin eksekusi tidak diberikan.
-   3.	Dengan perintah chmod +x, pengguna memberikan izin eksekusi untuk nuri.sh dan berhasil menjalankannya.
-   4.	Baik file Python (tes.py) maupun skrip shell (nuri.sh) menghasilkan output yang sama, yaitu "halo semua".
-      Perintah yang penting dalam sesi ini:
-      •	mkdir → Membuat direktori.
-      •	nano → Mengedit file.
-      •	python3 → Menjalankan skrip Python.
-      •	chmod +x → Memberikan izin eksekusi pada skrip shell.
-      •	./nama_file.sh → Menjalankan skrip shell.
+    1.	Pengguna membuat direktori dan file Python, kemudian menjalankannya tanpa masalah.
+    2.	Pengguna mencoba menjalankan skrip shell tetapi awalnya gagal karena izin eksekusi tidak diberikan.
+    3.	Dengan perintah chmod +x, pengguna memberikan izin eksekusi untuk nuri.sh dan berhasil menjalankannya.
+    4.	Baik file Python (tes.py) maupun skrip shell (nuri.sh) menghasilkan output yang sama, yaitu "halo semua".
+       Perintah yang penting dalam sesi ini:
+       •	mkdir → Membuat direktori.
+       •	nano → Mengedit file.
+       •	python3 → Menjalankan skrip Python.
+       •	chmod +x → Memberikan izin eksekusi pada skrip shell.
+       •	./nama_file.sh → Menjalankan skrip shell.
 
 ![image](https://github.com/user-attachments/assets/c2b306a6-71ad-4ba4-bfca-26607347f5c3)
 
