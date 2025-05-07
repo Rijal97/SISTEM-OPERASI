@@ -77,7 +77,8 @@
     -le → Operator perbandingan yang berarti "less than or equal to" (kurang dari atau sama dengan).
     Jika nilai angka lebih besar dari 5, perulangan akan berhenti.
     Do Menandai awal dari blok perulangan → Semua perintah di dalam blok do ... done akan dijalankan setiap iterasi.
-    echo “angka saat ini: $angka” Menampilkan nilai angka saat ini → Setiap iterasi akan mencetak teks “angka saat ini: X, di mana X adalah nilai variabel angka.
+    echo “angka saat ini: $angka” Menampilkan nilai angka saat ini → Setiap iterasi akan mencetak teks
+    “angka saat ini: X, di mana X adalah nilai variabel angka.
     Output akan berubah sesuai dengan nilai angka.
     angka=$((angka + 1)) Menambah nilai angka setiap iterasi → Agar 
     loop tidak berjalan selamanya (infinite loop), nilai angka harus diperbarui.
@@ -88,7 +89,6 @@
 ![image](https://github.com/user-attachments/assets/da7b7f71-980f-4922-8614-24e9c71e793b)
 
 # Automasi dengan Cron Job. Cron adalah layanan bawaan di Linux yang memungkinkan pengguna untuk menjalankan perintah atau skrip pada jadwal yang telah ditentukan.
-
 1.  Buat Skrip yang Akan Dijalankan
     Buat skrip bernama log_time.sh untuk mencatat waktu eksekusi lalu tekan enter
 
