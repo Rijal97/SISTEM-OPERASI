@@ -23,7 +23,6 @@ a.	Perintah ip a dan ping
 
 
 
-
 2)	  Jaringan Bridged Adapter:
 -	Ketik ip a untuk lihat alamat IP di bagian 2: enp0s3: inet 172.16.45.105/24 
 -	Ketik ping 8.8.8.8 untuk memastikan sistem terhubung ke internet dan dapat menjangkau jaringan luar.
