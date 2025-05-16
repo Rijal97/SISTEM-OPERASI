@@ -31,6 +31,7 @@ Kamu masuk ke direktori folderbaru menggunakan cd.
 •	Perintah ls
 Kamu mengecek isi folder folderbaru, dan hasilnya menunjukkan bahwa file1.txt sudah berada di dalam folder tersebut.
 
+
  
 
 e.	Menghapus file dan folder
